@@ -14,6 +14,6 @@
 
 👨🏻‍💻 QA voluntário na [Lacrei Saúde](https://www.portallacrei.com.br/)
 
-🌱 Atualmente estudando [Java](https://www.java.com/) e [MySQL](https://www.mysql.com/)
+🌱 Atualmente estudando Java e MySQL
 
 ![João Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=jvicso&show_icons=true&theme=tokyonight)
