@@ -1,16 +1,19 @@
-### Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jvicso&label=Profile%20views&color=0e75b6&style=flat" alt="jvciso" /> </p>
 
-<!--
-**jvicso/jvicso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="350" src="https://imgur.com/2fmS3Kw.png"/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Olá! Eu sou o João Victor! <img src="https://imgur.com/RKt16C5.gif" width="32" height="32">
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jvicso/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jvss.smc@gmail.com)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5582993999074)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jvicso/)
+
+🎓 Graduando em Sistemas para Internet pela [UNCISAL - Universidade Estadual de Ciências da Saúde de Alagoas](https://www.uncisal.edu.br/)
+
+👨🏻‍💻 QA voluntário na [Lacrei Saúde](https://www.portallacrei.com.br/)
+
+🌱 Atualmente estudando Java e MySQL
+
+![João Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=jvicso&show_icons=true&theme=tokyonight)
