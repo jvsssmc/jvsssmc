@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jvicso&label=Profile%20views&color=0e75b6&style=flat" alt="jvciso" /> </p>
 
-<img align="right" width="350" src="https://imgur.com/2fmS3Kw.png"/>
+<img align="right" width="280" src="https://imgur.com/2fmS3Kw.png"/>
 
 
 ## Olá! Eu sou o João Victor! <img src="https://imgur.com/RKt16C5.gif" width="32" height="32">
