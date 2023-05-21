@@ -12,7 +12,7 @@
 
 🎓 Graduando em Sistemas para Internet pela [UNCISAL - Universidade Estadual de Ciências da Saúde de Alagoas](https://www.uncisal.edu.br/)
 
-👨🏻‍💻 QA voluntário na [Lacrei Saúde](https://www.portallacrei.com.br/)
+👨🏻‍💻 Estagiário QA
 
 🌱 Atualmente estudando Java
 
