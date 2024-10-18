@@ -8,11 +8,10 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jvicso/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jvss.smc@gmail.com)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5582993999074)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jvicso/)
 
 🎓 Graduado em Sistemas para Internet pela [UNCISAL - Universidade Estadual de Ciências da Saúde de Alagoas](https://www.uncisal.edu.br/)
 
-👨🏻‍💻 Estagiário QA
+👨🏻‍💻 QA
 
 🌱 Atualmente estudando Java
 
